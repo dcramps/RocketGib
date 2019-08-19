@@ -5,7 +5,7 @@ Ridiculous deathmatch with high boost rockets and a lightning sniper.
 - DM/TDM scoring
 - players spawn with 199hp
 - self damage is 10%
-- midair damage is 200% (Due to a game bug, the HUD/hitsound does not report 2x)
+- midair rocket damage is 200% if the victim is 550 units from the ground
 
 # Weapons
 ## Rocket Gib Rifle
@@ -16,7 +16,7 @@ Ridiculous deathmatch with high boost rockets and a lightning sniper.
 
 ## Rocket Gib Rocket Launcher
 - single rockets only, no grenades
-- velocity 6000
+- velocity 7000
 - base damage 90, minimum damage 50
 - inner radius 20
 - outer radius 400
