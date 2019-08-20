@@ -5,7 +5,9 @@ Ridiculous deathmatch with high boost rockets and a lightning sniper.
 - DM/TDM scoring
 - players spawn with 199hp
 - self damage is 10%
-- midair rocket damage is 200% if the victim is 550 units from the ground
+- midair rocket damage is 180 (90 standard)
+- midair lightning damage is 120 (90 standard)
+- midair shots require the victim to be at least 550 units from the ground
 
 # Weapons
 ## Rocket Gib Rifle
