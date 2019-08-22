@@ -3,7 +3,7 @@ Ridiculous deathmatch with high boost rockets and a lightning sniper.
 
 # Rules
 - DM/TDM scoring
-- players spawn with 199hp
+- players spawn with 200hp, 300hp max
 - self damage is 10%
 - midair rocket damage is 180 (90 standard)
 - midair lightning damage is 120 (90 standard)
